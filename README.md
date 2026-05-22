@@ -1,4 +1,4 @@
-# GOO-CLSS Available for download
+# GOO-CLSS Available for download（Specially designed for Swift playground Design）If it is useful, you can give it a star.
 import SwiftUI
 import SpriteKit
 import Combine
