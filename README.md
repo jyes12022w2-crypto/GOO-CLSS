@@ -1,4 +1,4 @@
-# GOO-CLSS
+# GOO-CLSS Available for download
 import SwiftUI
 import SpriteKit
 import Combine
